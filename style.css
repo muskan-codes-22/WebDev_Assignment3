@@ -217,9 +217,7 @@ form button:hover {
   margin-top: 3rem;
 }
 
-/* ------------------------------
-   RESPONSIVE DESIGN
---------------------------------*/
+
 @media (max-width: 768px) {
   .hero {
     flex-direction: column;
